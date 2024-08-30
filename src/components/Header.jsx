@@ -5,17 +5,17 @@ import { Bars3Icon, XMarkIcon } from '@heroicons/react/24/outline'
 
 
 const navigation = [
-    { name: 'Início', href: '#home' },
-    { name: 'Sobre nós', href: '#mission' },
-    { name: 'Corpo docente', href: '#plans' },
-    { name: 'Atividades', href: '#projects' },
+    { name: 'Início', href: '#banner' },
+    { name: 'Sobre nós', href: '#about' },
+    { name: 'Corpo docente', href: '#teachers' },
+    { name: 'Atividades', href: '#courses' },
 ]
 
 export default function Header() {
     const [mobileMenuOpen, setMobileMenuOpen] = useState(false)
 
     return (
-        <header className="relative inset-x-0 top-0 z-50 bg-[#F0E9D8]">
+        <header className="relative inset-x-0 top-0 z-50 bg-white">
             <div className='flex flex-row items-center justify-center w-full'>
                 <nav className="lg:max-w-screen-xl 2xl:max-w-screen-2xl flex items-center justify-between p-6 lg:px-8 w-full z-50 relative" aria-label="Global">
                     <div className="flex lg:flex-1">
@@ -46,7 +46,7 @@ export default function Header() {
                         ))}
                     </div>
                     <div className="hidden lg:flex lg:flex-1 lg:justify-end gap-4 ">
-                        <a href="#" className="rounded-xl bg-[#2A2C6F] px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-[#2A2C6F] focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600">
+                        <a href="#contact" className="rounded-xl bg-[#2A2C6F] px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-[#2A2C6F] focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600">
                             Contate-nos
                         </a>
                     </div>

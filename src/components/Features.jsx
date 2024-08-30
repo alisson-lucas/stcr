@@ -1,7 +1,7 @@
 export default function Features() {
     return (
 
-        <div className='w-full flex flex-row items-center justify-center flex-wrap bg-[#F0E9D8] p-10 lg:p-20' >
+        <div className='w-full flex flex-row items-center justify-center flex-wrap bg-white p-10 lg:p-20' >
             <div className="flex flex-col w-full container items-center justify-center gap-10 lg:gap-20">
                 <div className="relative flex flex-row flex-wrap w-full min-h-[900px] lg:min-h-[50px] items-center justify-center gap-10">
                     <div className="absolute -top-40 lg:-top-56 w-full flex flex-row flex-wrap items-center justify-center gap-10">

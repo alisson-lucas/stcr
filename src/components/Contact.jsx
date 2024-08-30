@@ -1,6 +1,6 @@
 export default function Contact() {
     return (
-        <div className="relative flex items-center justify-center w-full bg-[#F0E9D8]">
+        <div id="contact" className="relative flex items-center justify-center w-full bg-white">
             <img src="/images/logo-xl.png" alt="" className="absolute top-10 right-0 z-20 opacity-50 lg:opacity-100" />
             <div className="flex flex-col items-start justify-center text-start gap-14 w-full container py-10 lg:py-20 px-8 lg:px-20 z-30">
                 <h1 className="text-[#353535] font-bold text-5xl leading-snug">Venha <br /> aprender <br /> conosco</h1>
