@@ -8,22 +8,22 @@ export default function Courses() {
                 <div className="flex flex-row flex-wrap items-start justify-between gap-4">
                     <article className="flex flex-col bg-[#353535] w-full lg:w-[calc(100%/3-50px)] min-h-[300px] gap-4">
                         <img src="/images/Minicursos/1.png" alt="Curso de Teología" />
-                        <div className="flex flex-col w-full gap-4 py-8 px-8">
-                            <span className="text-white text-2xl font-semibold">Pregação expositiva</span>
+                        <div className="flex flex-col w-full gap-4 py-8 px-6">
+                            <span className="text-white text-xl lg:text-[1.2rem] font-semibold">Pregação expositiva</span>
                             {/* <span className="text-white text-base font-normal">Este curso de teologia explora as complexidades e desafios que a teologia enfrenta no mundo contemporâneo.</span> */}
                         </div>
                     </article>
                     <article className="flex flex-col bg-[#353535] w-full lg:w-[calc(100%/3-50px)] min-h-[300px] gap-4">
                         <img src="/images/Minicursos/2.png" alt="Curso de Teología" />
-                        <div className="flex flex-col w-full gap-4 py-8 px-8">
-                            <span className="text-white text-2xl font-semibold">História dos congregacionais</span>
+                        <div className="flex flex-col w-full gap-4 py-8 px-6">
+                            <span className="text-white text-xl lg:text-[1.2rem] font-semibold">História dos congregacionais</span>
                             {/* <span className="text-white text-base font-normal">Este curso de teologia explora as complexidades e desafios que a teologia enfrenta no mundo contemporâneo.</span> */}
                         </div>
                     </article>
                     <article className="flex flex-col bg-[#353535] w-full lg:w-[calc(100%/3-50px)] min-h-[300px] gap-4">
                         <img src="/images/Minicursos/3.png" alt="Curso de Teología" />
-                        <div className="flex flex-col w-full gap-4 py-8 px-8">
-                            <span className="text-white text-2xl font-semibold">Aconselhamento sapiencial</span>
+                        <div className="flex flex-col w-full gap-4 py-8 px-6">
+                            <span className="text-white text-xl lg:text-[1.2rem] font-semibold">Aconselhamento sapiencial</span>
                             {/* <span className="text-white text-base font-normal">Este curso de teologia explora as complexidades e desafios que a teologia enfrenta no mundo contemporâneo.</span> */}
                         </div>
                     </article>
