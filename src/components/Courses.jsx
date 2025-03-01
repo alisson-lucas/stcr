@@ -7,21 +7,21 @@ export default function Courses() {
                 </div>
                 <div className="flex flex-row flex-wrap items-start justify-between gap-4">
                     <article className="flex flex-col bg-[#353535] w-full lg:w-[calc(100%/3-50px)] min-h-[300px] gap-4">
-                        <img src="/images/Minicursos/34.png" alt="Curso de Teología" />
+                        <img src="/images/minicursos/34.png" alt="Curso de Teología" />
                         <div className="flex flex-col w-full gap-4 py-8 px-6">
                             <span className="text-white text-xl lg:text-[1.2rem] font-semibold">Lendo as escrituras</span>
                             {/* <span className="text-white text-base font-normal">Este curso de teologia explora as complexidades e desafios que a teologia enfrenta no mundo contemporâneo.</span> */}
                         </div>
                     </article>
                     <article className="flex flex-col bg-[#353535] w-full lg:w-[calc(100%/3-50px)] min-h-[300px] gap-4">
-                        <img src="/images/Minicursos/35.png" alt="Curso de Teología" />
+                        <img src="/images/minicursos/35.png" alt="Curso de Teología" />
                         <div className="flex flex-col w-full gap-4 py-8 px-6">
                             <span className="text-white text-xl lg:text-[1.2rem] font-semibold">Ed. cristã infantil</span>
                             {/* <span className="text-white text-base font-normal">Este curso de teologia explora as complexidades e desafios que a teologia enfrenta no mundo contemporâneo.</span> */}
                         </div>
                     </article>
                     <article className="flex flex-col bg-[#353535] w-full lg:w-[calc(100%/3-50px)] min-h-[300px] gap-4">
-                        <img src="/images/Minicursos/36.png" alt="Curso de Teología" />
+                        <img src="/images/minicursos/36.png" alt="Curso de Teología" />
                         <div className="flex flex-col w-full gap-4 py-8 px-6">
                             <span className="text-white text-xl lg:text-[1.2rem] font-semibold">Família da aliança</span>
                             {/* <span className="text-white text-base font-normal">Este curso de teologia explora as complexidades e desafios que a teologia enfrenta no mundo contemporâneo.</span> */}
