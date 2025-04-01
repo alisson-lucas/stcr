@@ -25,7 +25,7 @@ export default function Banner() {
                     </div>
                 </div>
                 <div className='flex w-1/2'>
-                    <img src='/images/banner-img.png' className='w-auto lg:w-[722px] 2xl:w-[830px] lg:h-[420px] 2xl:h-[515px] block z-30 rounded-lg absolute bottom-0 right-0 lg:right-4 2xl:right-10' />
+                    <img src='/images/banner-img.png' className='w-auto lg:-mb-3 2xl:mb-0 lg:scale-95 2xl:scale-100 lg:w-[700px] 2xl:w-[830px] lg:h-[420px] 2xl:h-[515px] block z-30 rounded-lg absolute bottom-0 right-0 lg:right-4 2xl:right-10' />
                 </div>
             </div>
         </div>
