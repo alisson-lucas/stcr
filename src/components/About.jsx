@@ -6,6 +6,7 @@ export default function About() {
                 O melhor lugar para aprender sobre as escrituras sagradas
                 </h1>
                 <span className='text-gray-700 text-center text-sm lg:text-base'>Somos o Seminário Teológico Congregacional do Recife, uma instituição de ensino superior que oferece cursos de graduação, pós-graduação e extensão na área de teologia. Nossa missão é formar líderes cristãos capacitados para servir a Deus e à sua igreja, com base na fé reformada e na confessionalidade congregacional.</span>
+                <span className='text-gray-700 text-center text-sm lg:text-base'>A Koinonia é a associação de igrejas congregacionais ligadas a UIECB (União de Igrejas Evangélicas Congregacionais do Brasil) na região metropolitana do Recife e Sergipe.</span>
             </div>
         </div>
     )
